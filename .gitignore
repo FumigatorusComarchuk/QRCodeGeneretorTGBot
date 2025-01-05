@@ -2,4 +2,6 @@ config.json
 __pycache__
 *.session
 *.session-journal
+*.session-shm
+*.session-wal
 .virtual_env
